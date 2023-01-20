@@ -1,1 +1,1 @@
-# odin-recipes
+A super simple recipe project.
